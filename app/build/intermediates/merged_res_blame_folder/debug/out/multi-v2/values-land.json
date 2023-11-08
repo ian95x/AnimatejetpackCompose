@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.animatejetpackcompose.app-mergeDebugResources-47:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/emobilis/.gradle/caches/transforms-3/d4ced7e593d5ccf19eee3ad3a819ca1c/transformed/appcompat-1.3.1/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}
